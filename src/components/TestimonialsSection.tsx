@@ -7,19 +7,19 @@ const TestimonialsSection = () => {
   const testimonials = [
     {
       quote: "Flowmatic transformed our customer service with their AI chatbot. We've seen a 60% reduction in response time and our customers love the instant support.",
-      author: "Jennifer Martinez",
+      author: "xxxxxxx",
       role: "Operations Manager",
       company: "TechStart Inc."
     },
     {
       quote: "The automation workflows they built for us saved our team 20 hours per week. The ROI was immediate and the implementation was seamless.",
-      author: "David Thompson", 
+      author: "xxxxxxx", 
       role: "CEO",
       company: "Growth Solutions LLC"
     },
     {
       quote: "Their expertise in GoHighLevel and n8n integrations helped us automate our entire lead nurturing process. Highly recommended!",
-      author: "Lisa Chen",
+      author: "xxxxxxx",
       role: "Marketing Director", 
       company: "Digital Dynamics"
     }

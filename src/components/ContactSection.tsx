@@ -120,7 +120,7 @@ const ContactSection = () => {
                     </div>
                     <div>
                       <h4 className="font-semibold text-gray-800">Email</h4>
-                      <p className="text-gray-600">hello@flowmatic.com</p>
+                      <p className="text-gray-600">mariecharlotte@flowmatic-ia.com</p>
                     </div>
                   </div>
 
@@ -130,7 +130,7 @@ const ContactSection = () => {
                     </div>
                     <div>
                       <h4 className="font-semibold text-gray-800">Phone</h4>
-                      <p className="text-gray-600">+1 (555) 123-4567</p>
+                      <p className="text-gray-600">+34 (614) 39-4276</p>
                     </div>
                   </div>
 
@@ -143,7 +143,7 @@ const ContactSection = () => {
                       <p className="text-gray-600">
                         123 Tech Street<br />
                         Innovation District<br />
-                        San Francisco, CA 94105
+                        Spain and France
                       </p>
                     </div>
                   </div>
@@ -153,7 +153,7 @@ const ContactSection = () => {
               {/* Interactive Map Placeholder */}
               <div className="bg-gray-50 rounded-2xl p-8">
                 <h3 className="text-2xl font-semibold font-montserrat mb-6 text-gray-800">
-                  Find Us
+                  Find Spain
                 </h3>
                 
                 <div className="bg-gray-200 rounded-lg h-64 flex items-center justify-center">

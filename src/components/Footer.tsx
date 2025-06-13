@@ -77,8 +77,8 @@ const Footer = () => {
           <div>
             <h3 className="text-lg font-semibold font-montserrat mb-4">Connect</h3>
             <div className="space-y-3">
-              <p className="text-gray-300">hello@flowmatic.com</p>
-              <p className="text-gray-300">+1 (555) 123-4567</p>
+              <p className="text-gray-300">mariecharlotte@flowmatic-ia.com</p>
+              <p className="text-gray-300">+34 (614) 39-4276</p>
               
               {/* Social Links */}
               <div className="flex space-x-4 pt-4">

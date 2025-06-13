@@ -2,19 +2,19 @@
 const AboutSection = () => {
   const teamMembers = [
     {
-      name: "Alex Rodriguez",
+      name: "xxxxxxxx",
       role: "Lead Developer",
-      image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop&crop=face"
+      image: "https://cdn3.pixelcut.app/7/20/uncrop_hero_bdf08a8ca6.jpg"
     },
     {
-      name: "Sarah Chen",
+      name: "xxxxxxxx",
       role: "AI Specialist", 
-      image: "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=150&h=150&fit=crop&crop=face"
+      image: "https://cdn3.pixelcut.app/7/20/uncrop_hero_bdf08a8ca6.jpg"
     },
     {
-      name: "Marcus Johnson",
+      name: "xxxxxxxx",
       role: "Automation Expert",
-      image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&crop=face"
+      image: "https://cdn3.pixelcut.app/7/20/uncrop_hero_bdf08a8ca6.jpg"
     }
   ];
 
